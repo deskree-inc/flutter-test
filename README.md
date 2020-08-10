@@ -25,10 +25,10 @@ For the state managment, we don't have any preference for any technology. Howeve
 
 ## Description
 
-The idea of the test it's create an app to show our repos `issue`, the app should show all public repositorios that belong to the group `deskree-inc` and should be able to create an issue to the API https://us-central1-deskree-interviews.cloudfunctions.net/api.  This `API` belongs to us, this endpoint allows to `GET` all `issues` and `POST` to create new `issues`. **NOTE**: The `body` of the `issue` it's not predefined. You have the freedom to create your own `issue` object.
+The idea of the test it's create an app to show our repos `issues`, the app should show all public repositorios that belong to the group `deskree-inc` and should be able to create an issue with the API https://us-central1-deskree-interviews.cloudfunctions.net/api.  This `API` belongs to us, so you're not required to create issues in the github repo. **NOTE**: The `body` of the `issue` it's not predefined. You have the freedom to create your own `issue` object.
 
 
-For this test, we are going to test our most common features we have for every application we select, the app is divided in 3 parts. Loginthe app *MUST* have the following features:
+For this test, we are going to test our most common features we have for every application we select, the app is divided in 3 parts. the app *MUST* have the following features:
 
 * Login with `Firebase`
 * Get `repo` information using `Github API`
