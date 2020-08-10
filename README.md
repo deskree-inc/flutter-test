@@ -35,7 +35,9 @@ For this test, we are going to test our most common features we have for every a
 * Create `issues` using our `API` 
 
 
+## API
 
+In the repo, you will be able to find a postman `collection` and `environment`, with that you'll be able to play with our `API`. Also, all the `request` information is inside those files.
 
 ## General considerations
 
